@@ -9,8 +9,10 @@
 ##기능
 - 영어문장 듣기(TTS)
 - 모르는 문장 설명(LLM)
-- 대본 불러오기(DB)
+- 대본 등록, 불러오기(DB)
 - 역할 바꾸기
+![image](https://github.com/user-attachments/assets/1510e746-21bc-4631-8589-b727fb542a10)
+![image](https://github.com/user-attachments/assets/717057ea-4383-4ba9-a439-e466f6190861)
 
 ##기슬 스택
-Jpanel, jdbc, api
+Jpanel, jdbc, api, SQL
